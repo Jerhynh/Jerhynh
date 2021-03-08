@@ -6,7 +6,6 @@
 
 - Name : Jerhyn Huey 
 - Current Schooling : High School (Senior Year)
-- From : Tulsa Oklahoma
 - Future Goals : Becoming a software engineer at Microsoft and work on the future of Windows 10.
 - I’m currently learning : How to write programs in c++ and work with a compiler.
 
