@@ -21,3 +21,7 @@
 
 - AJAX : 40%
 - Bootstrap : 50%
+
+For those who want to say "Bootstrap isn't a JS framework" please kindly refer to the following sources:
+https://stackoverflow.com/questions/33453512/bootstrap-is-css-or-javascript-framework-or-both
+https://www.bing.com/search?q=is+bootstrap+a+js+framework
