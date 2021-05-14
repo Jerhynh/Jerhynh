@@ -17,6 +17,10 @@
 
 - - - -
 
+![Jerhyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerhynh&show_icons=true&theme=synthwave)
+
+- - - -
+
 ### Programming languages that I am proficient in
 
 - C# : 75%
